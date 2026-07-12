@@ -1,0 +1,87 @@
+{
+  "mammals": [
+    {
+      "id": "M001",
+      "category": "နို့တိုက်သတ္တဝါ",
+      "name_mm": "ကျား",
+      "name_en": "Tiger",
+      "scientific_name": "Panthera tigris",
+      "image_url": "https://raw.githubusercontent.com/Sesar5899/Smart-Wildlife-Encyclopedia-Data/main/image/mammals/panthera-tigris.jpg",
+      "habitat": "တောင်တန်းများ၊ စိုစွတ်သောသစ်တောများ၊ မြက်ခင်းပြင်များ။",
+      "iucn_status": "EN (Endangered)",
+      "details": {
+        "overview": "မြန်မာနိုင်ငံ၏ ဂေဟစနစ်တွင် အစာကွင်းဆက်၏ အထွတ်အထိပ်၌ရှိသော သားရဲတိရစ္ဆာန်ဖြစ်သည်။",
+        "physical_description": "လိမ္မော်ရောင်နောက်ခံတွင် အမည်းရောင်အစင်းကြောင်းများပါရှိပြီး ကိုယ်ထည်ကြီးမားသန်မာသည်။",
+        "diet_and_habits": "အဓိကအားဖြင့် ဒရယ်၊ ဝက်ရိုင်းများကို အမဲလိုက်စားသုံးသည်။ တစ်ကောင်တည်း နေထိုင်တတ်သည်။",
+        "reproduction": "မိတ်လိုက်ပြီးနောက် ၉၅ ရက်မှ ၁၁၀ ရက်အထိ ကိုယ်ဝန်ဆောင်ကာ တစ်ကြိမ်လျှင် သား ၂ ကောင်မှ ၄ ကောင်အထိ မွေးဖွားသည်။"
+      }
+    },
+    {
+      "id": "M002",
+      "category": "နို့တိုက်သတ္တဝါ",
+      "name_mm": "ဆင်",
+      "name_en": "Asian Elephant",
+      "scientific_name": "Elephas maximus",
+"image_url": "https://raw.githubusercontent.com/Sesar5899/Smart-Wildlife-Encyclopedia-Data/main/image/mammals/elephas-maximus.jpg",
+      "habitat": "မိုးသစ်တော၊ တောင်ခြေဒေသနှင့် မြက်ခင်းပြင်များ။",
+      "iucn_status": "EN (Endangered)",
+      "details": {
+        "overview": "အာရှတိုက်၏ အကြီးဆုံး ကုန်းနေနို့တိုက်သတ္တဝါဖြစ်ပြီး လူမှုရေးအရ အလွန်ဖွံ့ဖြိုးသော အုပ်စုဖွဲ့နေထိုင်သည့် တိရစ္ဆာန်ဖြစ်သည်။",
+        "physical_description": "ကြီးမားသော ကိုယ်ထည်၊ ရှည်လျားသော နှာမောင်းနှင့် ပန်ကာပုံသဏ္ဍာန် နားရွက်များရှိသည်။",
+        "diet_and_habits": "မြက်၊ သစ်ရွက်၊ အသီးအနှံနှင့် ဝါးပင်များကို စားသုံးသည်။ နေ့စဉ် ရေပမာဏ အများအပြားလိုအပ်သည်။",
+        "reproduction": "ကိုယ်ဝန်ဆောင်ကာလမှာ ၁၈ လမှ ၂၂ လအထိ ကြာမြင့်ပြီး တစ်ကြိမ်လျှင် သားတစ်ကောင်သာ မွေးဖွားသည်။"
+      }
+    },
+    {
+      "id": "M003",
+      "category": "နို့တိုက်သတ္တဝါ",
+      "name_mm": "တောင်ဆိတ်",
+      "name_en": "Serow",
+      "scientific_name": "Capricornis sumatraensis",
+      "image_url": "https://raw.githubusercontent.com/Sesar5899/Smart-Wildlife-Encyclopedia-Data/main/image/mammals/capricornis-sumatraensis.jpg",
+
+      "habitat": "မြန်မာနိုင်ငံရှိ ကျောက်ဆောင်ထူထပ်သော တောင်တန်းဒေသများ။",
+      "iucn_status": "VU (Vulnerable)",
+      "details": {
+        "overview": "တောင်တက်ကျွမ်းကျင်သော သတ္တဝါမျိုးဖြစ်ပြီး အလွန်သတိကောင်းသည်။",
+        "physical_description": "ဆံပင်ကြမ်းများပါရှိပြီး ဦးချိုအနည်းငယ် ကောက်နေတတ်သည်။ အရောင်မှာ မီးခိုးရောင် သို့မဟုတ် အနက်ရောင်ဖြစ်သည်။",
+        "diet_and_habits": "အရွက်များ၊ အပင်နုများ စားသုံးသည်။ လူသူအရောက်အပေါက်နည်းသော ကျောက်ဆောင်များတွင် နေထိုင်သည်။",
+        "reproduction": "တစ်နှစ်လျှင် တစ်ကြိမ်သာ မိတ်လိုက်ပြီး သားတစ်ကောင်သာ ပေါက်လေ့ရှိသည်။"
+      }
+    },
+    {
+      "id": "M004",
+      "category": "နို့တိုက်သတ္တဝါ",
+      "name_mm": "ပန်ဂိုလင် (ဖြူကောင်)",
+      "name_en": "Pangolin",
+      "scientific_name": "Manis javanica",
+            "image_url": "https://raw.githubusercontent.com/Sesar5899/Smart-Wildlife-Encyclopedia-Data/main/image/mammals/pangolin.jpg",
+
+      "habitat": "မြေနိမ့်သစ်တောနှင့် ခြုံနွယ်များ။",
+      "iucn_status": "CR (Critically Endangered)",
+      "details": {
+        "overview": "ခန္ဓာကိုယ်တွင် အကြေးခွံများဖြင့် ဖုံးအုပ်ထားပြီး ရန်သူကိုတွေ့ပါက ဘောလုံးကဲ့သို့ လုံးထွေးနေတတ်သည်။",
+        "physical_description": "အကြေးခွံများမှာ ကာရာတင်ဓာတ်ဖြင့် ဖွဲ့စည်းထားသည်။ ရှည်လျားသော လျှာပါရှိသည်။",
+        "diet_and_habits": "ပုရွက်ဆိတ်နှင့် တီကောင်များကို အဓိကစားသုံးသည်။ ညဘက်တွင်သာ ပိုမိုလှုပ်ရှားသည်။",
+        "reproduction": "တစ်နှစ်လျှင် တစ်ကောင်သာ မွေးဖွားပြီး မိခင်၏ အမြီးပေါ်တွင် တွယ်ကပ်နေလေ့ရှိသည်။"
+      }
+    },
+    {
+      "id": "M005",
+      "category": "နို့တိုက်သတ္တဝါ",
+      "name_mm": "ကျားသစ်",
+      "name_en": "Leopard",
+      "scientific_name": "Panthera pardus",
+            "image_url": "https://raw.githubusercontent.com/Sesar5899/Smart-Wildlife-Encyclopedia-Data/main/image/mammals/leopard.jpg",
+
+      "habitat": "တောထူထပ်သော ဒေသများနှင့် တောင်တန်းများ။",
+      "iucn_status": "VU (Vulnerable)",
+      "details": {
+        "overview": "အလွန်လျှို့ဝှက်စွာ နေထိုင်တတ်ပြီး သစ်ပင်တက်ရာတွင် အလွန်ကျွမ်းကျင်သော သားရဲကောင်ဖြစ်သည်။",
+        "physical_description": "ကိုယ်ထည်တွင် ပန်းပွင့်ပုံသဏ္ဍာန် အကွက်များ (Rosettes) ပါရှိသည်။",
+        "diet_and_habits": "အသားစားသတ္တဝါဖြစ်ပြီး သားကောင်ကို သစ်ပင်ပေါ်အထိ ဆွဲတင်သွားတတ်သည်။",
+        "reproduction": "၃ လခန့် ကိုယ်ဝန်ဆောင်ပြီးနောက် သားငယ် ၁ မှ ၃ ကောင်အထိ မွေးဖွားသည်။"
+      }
+    }
+  ]
+}

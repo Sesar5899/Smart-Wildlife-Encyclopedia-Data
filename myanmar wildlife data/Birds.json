@@ -1,0 +1,89 @@
+{
+  "birds": [
+    {
+      "id": "B001",
+      "category": "ငှက်",
+      "name_mm": "မြန်မာ့ဒေါင်း",
+      "name_en": "Green Peafowl",
+      "scientific_name": "Pavo muticus",
+      "image_url": "https://raw.githubusercontent.com/Sesar5899/Smart-Wildlife-Encyclopedia-Data/main/image/birds/pavo-muticus.jpg",
+
+      "habitat": "သစ်တောအစပ်များ၊ မြစ်ကမ်းပါးနှင့် လွင်ပြင်များ။",
+      "iucn_status": "EN (Endangered)",
+      "details": {
+        "overview": "မြန်မာနိုင်ငံ၏ အမျိုးသားရေး လက္ခဏာတစ်ခုဖြစ်ပြီး အလွန်လှပသော အမြီး깃များရှိသည့် ငှက်မျိုးစိတ်ဖြစ်သည်။",
+        "physical_description": "ကိုယ်ထည်မှာ စိမ်းလန်းတောက်ပြောင်ပြီး အဖိုများတွင် အလွန်ရှည်လျားလှပသော အမြီး깃များ ပါရှိသည်။",
+        "diet_and_habits": "အစေ့အဆန်များ၊ အသီးအရွက်များနှင့် ပိုးမွှားများကို စားသုံးသည်။ အုပ်စုငယ်များဖြင့် နေထိုင်တတ်သည်။",
+        "reproduction": "သစ်တောအတွင်း မြေပြင်ပေါ်တွင် အသိုက်ဆောက်ကာ ဥ ၃ လုံးမှ ၅ လုံးအထိ အုလေ့ရှိသည်။"
+      }
+    },
+    {
+      "id": "B002",
+      "category": "ငှက်",
+      "name_mm": "လင်းယုန်",
+      "name_en": "Changeable Hawk-Eagle",
+      "scientific_name": "Nisaetus cirrhatus",
+      "image_url": "https://raw.githubusercontent.com/Sesar5899/Smart-Wildlife-Encyclopedia-Data/main/image/birds/nisaetus-cirrhatus.jpg",
+
+      "habitat": "မြန်မာနိုင်ငံတစ်ဝန်းရှိ သစ်တောများ၊ ပုပ္ပားတောင်အမျိုးသားဥယျာဉ်နှင့် ကုန်းမြင့်တောတောင်များ။",
+      "iucn_status": "LC (Least Concern)",
+      "details": {
+        "overview": "အစာကွင်းဆက်တွင် အပေါ်ဆုံး၌ရှိသော သားရဲငှက် (Apex Predator) ဖြစ်သည်။",
+        "physical_description": "အရွယ်အစားကြီးမားပြီး ခြေသည်းများမှာ သန်မာချွန်ထက်သည်။ အမောက်တိုကလေး ပါရှိသည်။",
+        "diet_and_habits": "နို့တိုက်သတ္တဝါငယ်များ၊ ရှဥ့်၊ ယုန်နှင့် ငှက်ငယ်များကို အမြင့်မှစိုက်ဆင်းဖမ်းဆီးစားသုံးသည်။",
+        "reproduction": "ဒီဇင်ဘာမှ ဧပြီလအတွင်း မိတ်လိုက်ပြီး တစ်ကြိမ်လျှင် ဥတစ်လုံးသာ အုလေ့ရှိသည်။"
+      }
+    },
+    {
+      "id": "B003",
+      "category": "ငှက်",
+      "name_mm": "ခိုချောင်း",
+      "name_en": "White-rumped Vulture",
+      "scientific_name": "Gyps bengalensis",
+      "image_url": "https://raw.githubusercontent.com/Sesar5899/Smart-Wildlife-Encyclopedia-Data/main/image/birds/gyps-bengalensis.jpg",
+
+      "habitat": "ပွင့်လင်းသောလွင်ပြင်များနှင့် သစ်တောအစပ်များ။",
+      "iucn_status": "CR (Critically Endangered)",
+      "details": {
+        "overview": "သေဆုံးနေသော တိရစ္ဆာန်အသေကောင်များကို စားသုံးခြင်းဖြင့် သဘာဝပတ်ဝန်းကျင်ကို သန့်ရှင်းပေးသော သန့်ရှင်းရေးသမားများဖြစ်သည်။",
+        "physical_description": "ခေါင်းနှင့် လည်ပင်းတွင် အမွှေးနည်းပြီး အလွန်ကြီးမားသော တောင်ပံများရှိသည်။",
+        "diet_and_habits": "အသေကောင်များကိုသာ အဓိကစားသုံးသည်။ အမြင့်ပေမြင့်မြင့်တွင် လေကိုစီးပြီး ပျံသန်းသည်။",
+        "reproduction": "သစ်ပင်မြင့်ကြီးများပေါ်တွင် အသိုက်ဆောက်လုပ်ကာ တစ်နှစ်လျှင် ဥတစ်လုံးသာ အုသည်။"
+      }
+    },
+    {
+      "id": "B004",
+      "category": "ငှက်",
+      "name_mm": "ငှက်ခါး",
+      "name_en": "Oriental Pied Hornbill",
+      "scientific_name": "Anthracoceros albirostris",
+      "image_url": "https://raw.githubusercontent.com/Sesar5899/Smart-Wildlife-Encyclopedia-Data/main/image/birds/anthracoceros-albirostris.jpg",
+
+      "habitat": "သစ်တောများ၊ ဥယျာဉ်ခြံမြေများနှင့် သစ်ပင်ကြီးများရှိရာ ဒေသများ။",
+      "iucn_status": "LC (Least Concern)",
+      "details": {
+        "overview": "ထူးခြားသော အမောက်ကြီးနှင့် နှုတ်သီးပါရှိသော ငှက်မျိုးဖြစ်သည်။",
+        "physical_description": "ကိုယ်ထည်မှာ အမည်းရောင်ဖြစ်ပြီး ဝမ်းဗိုက်နှင့် အမြီးအဖျားတွင် အဖြူရောင်ပါရှိသည်။",
+        "diet_and_habits": "အသီးအနှံများ၊ အင်းဆက်ပိုးမွှားများနှင့် သစ်စေ့များကို စားသုံးသည်။",
+        "reproduction": "သစ်ခေါင်းများကို အသုံးပြု၍ အသိုက်ဆောက်ကာ ဥအုပြီး အပေါက်ကို ရွှံ့ဖြင့် ပိတ်ထားလေ့ရှိသည်။"
+      }
+    },
+    {
+      "id": "B005",
+      "category": "ငှက်",
+      "name_mm": "ကျီးကန်းလည်ဖြူ",
+      "name_en": "Collared Treepie",
+      "scientific_name": "Dendrocitta frontalis",
+          "image_url": "https://raw.githubusercontent.com/Sesar5899/Smart-Wildlife-Encyclopedia-Data/main/image/birds/dendrocitta-frontalis.jpg",
+  
+      "habitat": "တောင်တန်းဒေသရှိ သစ်တောများ။",
+      "iucn_status": "LC (Least Concern)",
+      "details": {
+        "overview": "အလွန်သွက်လက်ပြီး အသံကျယ်လောင်စွာ အော်တတ်သော ငှက်ဖြစ်သည်။",
+        "physical_description": "ဦးခေါင်းတွင် အနက်ရောင်ပါရှိပြီး ကိုယ်ထည်မှာ အညိုရောင်ဖြစ်ကာ အမြီးရှည်လျားသည်။",
+        "diet_and_habits": "သစ်သီးများ၊ အင်းဆက်များနှင့် အခြားငှက်တို့၏ ဥများကို စားသုံးတတ်သည်။",
+        "reproduction": "သစ်ပင်ငယ်များပေါ်တွင် အသိုက်ဆောက်လုပ်ပြီး ဥ ၃-၄ လုံးအထိ အုလေ့ရှိသည်။"
+      }
+    }
+  ]
+}

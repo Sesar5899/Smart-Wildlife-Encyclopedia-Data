@@ -1,0 +1,89 @@
+{
+  "aquatic": [
+    {
+      "id": "A001",
+      "category": "ရေနေသတ္တဝါ",
+      "name_mm": "ဧရာဝတီလင်းပိုင်",
+      "name_en": "Irrawaddy Dolphin",
+      "scientific_name": "Orcaella brevirostris",
+                  "image_url": "https://raw.githubusercontent.com/Sesar5899/Smart-Wildlife-Encyclopedia-Data/main/image/aquatic/orcaella-brevirostris.jpg",
+
+      "habitat": "ဧရာဝတီမြစ်ကြောင်းနှင့် ပင်လယ်ကမ်းရိုးတန်းရေပြင်များ။",
+      "iucn_status": "CR (Critically Endangered)",
+      "details": {
+        "overview": "မြန်မာနိုင်ငံ၏ အမှတ်သင်္ကေတတစ်ခုဖြစ်ပြီး လူသားတို့နှင့် ရင်းနှီးသည့် ဆက်ဆံရေးရှိသော ရေနေနို့တိုက်သတ္တဝါ ဖြစ်သည်။",
+        "physical_description": "နှာတံတိုပြီး ဦးခေါင်းလုံးဝိုင်းသည်။ ကျောကုန်းတွင် တောင်ပံငယ်လေး ပါရှိသည်။",
+        "diet_and_habits": "ငါးအမျိုးမျိုးနှင့် ရေနေသတ္တဝါငယ်များကို စားသုံးသည်။ လူတို့နှင့်အတူ ပူးပေါင်း၍ ငါးဖမ်းတတ်သည့် ထူးခြားသော အလေ့အထရှိသည်။",
+        "reproduction": "မျိုးပွားနှုန်းနှေးကွေးပြီး တစ်ကြိမ်လျှင် သားတစ်ကောင်သာ မွေးဖွားသည်။"
+      }
+    },
+    {
+      "id": "A002",
+      "category": "ရေနေသတ္တဝါ",
+      "name_mm": "လိပ်ခွံပျော့",
+      "name_en": "Burmese Roofed Turtle",
+      "scientific_name": "Batagur trivittata",
+      "image_url": "https://raw.githubusercontent.com/Sesar5899/Smart-Wildlife-Encyclopedia-Data/main/image/aquatic/batagur-trivittata.jpg",
+
+      "habitat": "မြန်မာနိုင်ငံအတွင်းရှိ မြစ်ကြီးများဖြစ်သည့် ချင်းတွင်းမြစ်နှင့် ဧရာဝတီမြစ်ကြောင်းများ။",
+      "iucn_status": "CR (Critically Endangered)",
+      "details": {
+        "overview": "ကမ္ဘာပေါ်တွင် မျိုးသုဉ်းရန် အနီးကပ်ဆုံးဖြစ်နေသော လိပ်မျိုးစိတ်တစ်ခုဖြစ်သည်။",
+        "physical_description": "ကျောခွံမှာ အမိုးပုံစံဖြစ်ပြီး ခေါင်းတွင် ထူးခြားသော အစိမ်းရောင်နှင့် အဝါရောင် အစက်အပြောက်များ ပါရှိသည်။",
+        "diet_and_habits": "မြစ်ကမ်းပါးရှိ အပင်များ၊ အသီးများနှင့် ရေနေအပင်များကို စားသုံးသည်။ သဲသောင်ပြင်တွင် ဥအုလေ့ရှိသည်။",
+        "reproduction": "သဲသောင်ပြင်များတွင် ဥအုပြီး မိခင်လိပ်သည် ဥများကို သဲဖြင့် ဖုံးအုပ်ကာ စောင့်ရှောက်လေ့ရှိသည်။"
+      }
+    },
+    {
+      "id": "A003",
+      "category": "ရေနေသတ္တဝါ",
+      "name_mm": "ငါးကွန်းရှပ်",
+      "name_en": "Giant Catfish",
+      "scientific_name": "Pangasianodon gigas",
+    "image_url": "https://raw.githubusercontent.com/Sesar5899/Smart-Wildlife-Encyclopedia-Data/main/image/aquatic/pangasianodon-gigas.jpg",
+
+      "habitat": "မြစ်ရေနက်ပိုင်းနှင့် ရေစီးသန်သော နေရာများ။",
+      "iucn_status": "CR (Critically Endangered)",
+      "details": {
+        "overview": "ကမ္ဘာ့အကြီးဆုံး ရေချိုငါးများထဲမှ တစ်မျိုးဖြစ်သည်။",
+        "physical_description": "ကိုယ်ထည်မှာ ကြီးမားရှည်လျားပြီး အကြေးခွံမဲ့ကာ အရေပြားမှာ ချောမွေ့သည်။",
+        "diet_and_habits": "အဓိကအားဖြင့် ရေညှိနှင့် အခြားရေနေအပင်များကို စားသုံးသည့် သက်သတ်လွတ်ငါးဖြစ်သည်။",
+        "reproduction": "မြစ်ကြောင်းအတိုင်း ရွှေ့ပြောင်းနေထိုင်ပြီး မိတ်လိုက်ရာသီတွင် ရေစီးကောင်းသော နေရာများသို့ သွားရောက်ကြသည်။"
+      }
+    },
+    {
+      "id": "A004",
+      "category": "ရေနေသတ္တဝါ",
+      "name_mm": "လိပ်လောင်း",
+      "name_en": "Green Sea Turtle",
+      "scientific_name": "Chelonia mydas",
+      "image_url": "https://raw.githubusercontent.com/Sesar5899/Smart-Wildlife-Encyclopedia-Data/main/image/aquatic/chelonia-mydas.jpg",
+
+      "habitat": "ပင်လယ်ကမ်းရိုးတန်းနှင့် ကျွန်းစုများ၊ သန္တာကျောက်တန်းများ။",
+      "iucn_status": "EN (Endangered)",
+      "details": {
+        "overview": "ပင်လယ်ပြင်တွင် နေထိုင်သော အကြီးဆုံးလိပ်မျိုးစိတ်ဖြစ်သည်။",
+        "physical_description": "ကိုယ်ထည်တွင် ခိုင်ခံ့သော ကျောခွံပါရှိပြီး ရေကူးရန် အတောင်ပံကဲ့သို့သော ခြေတက်များ ရှိသည်။",
+        "diet_and_habits": "အရွယ်ရောက်ပြီးနောက်ပိုင်းတွင် ပင်လယ်ရေမြက်များကို အဓိကစားသုံးသည်။",
+        "reproduction": "မိမိမွေးဖွားရာ ပင်လယ်ကမ်းခြေသို့ ပြန်လာပြီး သဲသောင်တွင် ဥအုလေ့ရှိသည်။"
+      }
+    },
+    {
+      "id": "A005",
+      "category": "ရေနေသတ္တဝါ",
+      "name_mm": "ငါးဒူးခေါင်း",
+      "name_en": "Mahseer",
+      "scientific_name": "Tor putitora",
+"image_url": "https://raw.githubusercontent.com/Sesar5899/Smart-Wildlife-Encyclopedia-Data/main/image/aquatic/tor-putitora.jpg",
+
+      "habitat": "တောင်တန်းများမှ စီးဆင်းလာသော ရေစီးသန်သည့် မြစ်ချောင်းများ။",
+      "iucn_status": "EN (Endangered)",
+      "details": {
+        "overview": "ရေသန့်နှင့် အောက်ဆီဂျင်မြင့်မားသော နေရာများတွင်သာ နေထိုင်သော ငါးမျိုးဖြစ်သည်။",
+        "physical_description": "အကြေးခွံများမှာ ကြီးမားပြီး ငွေရောင် သို့မဟုတ် ရွှေရောင် တောက်ပြောင်နေတတ်သည်။",
+        "diet_and_habits": "အင်းဆက်များ၊ အသီးအရွက်များနှင့် ရေနေသတ္တဝါငယ်များကို စားသုံးသည်။",
+        "reproduction": "မိုးတွင်းကာလတွင် ရေစီးသန်သော နေရာများသို့ ရွှေ့ပြောင်းကာ ဥအုလေ့ရှိသည်။"
+      }
+    }
+  ]
+}
